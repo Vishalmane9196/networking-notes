@@ -1,0 +1,14 @@
+1. What is the DNS?
+- DNS is the Domain Name System. It is considered as the devices/services directory of the Internet. It is a decentralized and hierarchical naming system for devices/services connected to the Internet. It translates the domain names to their corresponding IPs. For e.g. interviewbit.com to 172.217.166.36. It uses port 53 by default.
+
+- needed a program for computers to translate names into IP addresses.
+- computers that run DNS are called, “DNS servers.” Without DNS, we’d have to remember the IP address of any server we wanted to connect to – no fun.
+
+
+DNS act as address book
+transalates human-readable domain name to machine readable IP addresses
+
+To achieve better scalability, DNS servers are organised in a hierarchical tree strutcure
+- Root NS 
+- Top level Domain NS 
+- Authoritative NS 

@@ -1,0 +1,31 @@
+
+Link: https://www.interviewbit.com/networking-interview-questions/
+
+Basic:
+1.What is the network?
+2. Tell me something about VPN (Virtual Private Network)
+3. What are the advantages of using a VPN?
+4. What are nodes and links?
+5.What is the network topology?
+6.Define different types of network topology
+7.What is an IPv4 address? What are the different classes of IPv4?
+
+Intermediate:
+1.Describe the OSI Reference Model
+2.Define the 7 different layers of the OSI Reference Model
+3.What are the HTTP and the HTTPS protocol
+4.What is the SMTP protocol?
+5.What is the DNS?
+6.What is the use of a router and how is it different from a gateway?
+
+
+Advanced:
+1.What is the TCP Protocol
+2.What is the UDP protocol?
+3.Compare between TCP and UDP
+4.What is the ICMP protocol?
+5.What do you mean by the DHCP Protocol?
+6.What is the ARP protocol?
+7.What is the FTP protocol?
+8.What is the MAC address and how is it related to NIC?
+9.What happens when you enter google.com in the web browser?

@@ -1,0 +1,14 @@
+1. Describe the OSI Reference Model
+- Open System Interconnections (OSI) is a network architecture model based on the ISO standards. It is called the OSI model as it deals with connecting the systems that are open for communication with other systems.
+
+
+14. Describe the TCP/IP Reference Model
+It is a compressed version of the OSI model with only 4 layers. It was developed by the US Department of Defence (DoD) in the 1980s. The name of this model is based on 2 standard protocols used i.e. TCP (Transmission Control Protocol) and IP (Internet Protocol).
+
+15. Define the 4 different layers of the TCP/IP Reference Model
+
+Layer	        Description
+Link	        -Decides which links such as serial lines or classic Ethernet must be used to meet the needs of the connectionless internet layer.
+Internet	    -The internet layer is the most important layer which holds the whole architecture together.It delivers the IP packets where they are supposed to be delivered.
+Transport	    -Its functionality is almost the same as the OSI transport layer. It enables peer entities on the network to carry on a conversation.
+Application	    -It contains all the higher-level protocols.
