@@ -9,6 +9,10 @@ Basic:
 5.What is the network topology?
 6.Define different types of network topology
 7.What is an IPv4 address? What are the different classes of IPv4?
+8.difference between Hub, Switch, & Router(link: https://www.youtube.com/watch?v=1z0ULvg_pW8&ab_channel=PowerCertAnimatedVideos)
+9.Physical topology catagories
+10. what is DHCP 
+11. what is DNS 
 
 Intermediate:
 1.Describe the OSI Reference Model
