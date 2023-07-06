@@ -1,0 +1,32 @@
+
+Links: 
+- https://www.youtube.com/watch?v=rYodcvhh7b8&ab_channel=PracticalNetworking
+- http://www.practicalnetworking.net/series/packet-traveling/packet-traveling/
+
+- ARP table --> mapping of IP addresses to MAC addresses
+- MAC address table --> mapping of switchport to MAC addresses
+- Routing table --> mapping of IP networks to interface
+
+L3 - ip address - hop to hop
+L2 - mac address - end to end
+
+arp request is basically send to get the MAC address of destination from source machine
+
+router: 
+- routing table (interface and network)
+- arp table 
+
+switch:
+- MAC address table 
+
+host:
+- arp table
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+
+Hosts: Any device that sends or receives traffic
+- client and server terms relative to specific communication
+
+IP address is the identity of each host 
+

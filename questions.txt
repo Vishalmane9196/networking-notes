@@ -13,6 +13,7 @@ Basic:
 9.Physical topology catagories
 10. what is DHCP 
 11. what is DNS 
+12. What is hub, Switch, router (link: https://www.tutorialspoint.com/what-are-hub-and-switch-in-computer-network)
 
 Intermediate:
 1.Describe the OSI Reference Model
